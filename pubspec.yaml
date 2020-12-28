@@ -49,6 +49,9 @@ flutter:
     - images/fix_bayonets_splash.jpg
     - images/sds_logo.png
     - images/fix_bayonets_background.jpg
+    - images/bayonet.png
+    - images/pistol.png
+    - images/wire.png
     - assets/help.html
 
   # An image asset can refer to one or more resolution-specific "variants", see
